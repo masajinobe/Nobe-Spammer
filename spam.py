@@ -12,4 +12,4 @@ while True:
     server.login(user, password)
     server.sendmail(user, target, msg)
     server.close()
-    print('Successfully sent the mail!')
+    print('Successfully send the mail!')
